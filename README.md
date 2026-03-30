@@ -25,6 +25,7 @@ npm install
 Para que o Module Federation funcione com o plugin do Vite, é recomendado realizar o build e preview dos remotes:
 
 **MFE Documents:**
+
 ```bash
 cd mfe-documents
 npm run build
@@ -32,6 +33,7 @@ npm run preview
 ```
 
 **MFE Approvals:**
+
 ```bash
 cd mfe-approvals
 npm run build
@@ -56,3 +58,7 @@ Acesse `http://localhost:5000` para visualizar a aplicação integrada.
 - **Tailwind CSS**: Framework CSS utilitário para estilização.
 - **Module Federation (@originjs/vite-plugin-federation)**: Permite a composição de múltiplas aplicações independentes em tempo de execução.
 - **React Router Dom**: Gerenciamento de rotas.
+
+## Endereço do site:
+
+https://yellow-bush-03c0e8910.2.azurestaticapps.net
